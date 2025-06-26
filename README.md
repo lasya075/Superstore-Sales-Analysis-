@@ -10,7 +10,7 @@ This project provides an interactive visual analysis of a Superstore's sales dat
 -**Tools Used**:
   - python (data cleaning)
   - MySQL (for data preparation)
-  - Tableau Public
+  - Tableau Public (for creating dashboard)
 
 -**Purpose**:
   - Identify top-performing regions, cities, and segments
