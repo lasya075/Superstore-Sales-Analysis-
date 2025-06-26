@@ -24,7 +24,7 @@ This project provides an interactive visual analysis of a Superstore's sales dat
 ```
 superstore-sales-analysis/
 ├── data/
-│   └── superstore_sales.csv           # Raw sales dataset
+│   └── superstore_sales.xlsx         # Raw sales dataset
 │
 ├── .ipynb/
 │   └── Superstore_sales_clean.ipynb   # Cleaning datset
