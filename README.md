@@ -4,18 +4,19 @@ This project provides an interactive visual analysis of a Superstore's sales dat
 ---
 
 ##Project Summary
--**Dataset**: Global Superstore Sales Dataset (~9,799 rows)
+
+- **Dataset**: Global Superstore Sales Dataset (~9,799 rows)
 
 -**Tools Used**:
-✔ python (data cleaning)
-✔ MySQL (for data preparation)
-✔ Tableau Public
+  - python (data cleaning)
+  - MySQL (for data preparation)
+  - Tableau Public
 
 -**Purpose**:
-✔ Identify top-performing regions, cities, and segments
-✔ Track monthly and yearly sales trends
-✔ Explore sales distribution by segment and region
-✔ Provide interactive, drill-down dashboards for stakeholders
+  - Identify top-performing regions, cities, and segments
+  - Track monthly and yearly sales trends
+  - Explore sales distribution by segment and region
+  - Provide interactive, drill-down dashboards for stakeholders
 
 ---
 
@@ -25,6 +26,9 @@ superstore-sales-analysis/
 ├── data/
 │   └── superstore_sales.csv           # Raw sales dataset
 │
+├── .ipynb/
+│   └── Superstore_sales_clean.ipynb   # Cleaning datset
+|
 ├── sql/
 │   └── sales_app.sql                  # MySQL table creation & data loading script
 │
