@@ -30,7 +30,7 @@ superstore-sales-analysis/
 │   └── Superstore_sales_clean.ipynb   # Cleaning datset
 |
 ├── sql/
-│   └── sales_app.sql                  # MySQL table creation & data loading script
+│   └── superstore_queries.sql                  # MySQL table creation & data loading script
 │
 ├── tableau/
 │   └── Superstore_Sales_Dashboard
