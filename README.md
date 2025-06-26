@@ -35,8 +35,7 @@ superstore-sales-analysis/
 ├── tableau/
 │   └── Superstore_Sales_Dashboard
 │   ├── Dashboard1.png            
-│   ├── Dashboard2.png               
-|   └── segment_city_breakdown.png     
+│   ├── Dashboard2.png     
 ```
 ---
 
