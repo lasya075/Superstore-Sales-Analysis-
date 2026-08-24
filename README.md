@@ -9,7 +9,7 @@ This project provides an interactive visual analysis of a Superstore's sales dat
 
 -**Tools Used**:
   - python (data cleaning)
-  - MySQL (for data preparation)
+  - MySQL (exploratory analysis to uncover sales trends)
   - Tableau Public (for creating dashboard)
 
 -**Purpose**:
