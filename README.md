@@ -5,7 +5,7 @@ This project provides an interactive visual analysis of a Superstore's sales dat
 
 ##Project Summary
 
-- **Dataset**: Global Superstore Sales Dataset (~9,800 rows)
+- **Dataset**: Global Superstore Sales Dataset (~9,944 rows)
 
 -**Tools Used**:
   - python (data cleaning)
